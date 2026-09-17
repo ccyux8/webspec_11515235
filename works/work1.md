@@ -1,7 +1,6 @@
 # 第1次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
-
+- 學號：11515235
+- 姓名：陳榆媗
 ## 作業目標
 1. GitHub註冊與登入：
     1. 註冊(Sign up)：[https://github.com/signup](https://github.com/signup)
